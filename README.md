@@ -6,7 +6,7 @@ A full-stack blogging platform built with Flask (REST API), MongoDB (Database), 
 ![Flask](https://img.shields.io/badge/Flask-3.0.0-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ---
 
